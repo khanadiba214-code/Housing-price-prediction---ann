@@ -14,3 +14,23 @@ of the Housing Price Prediction project.
 ## Purpose
 To understand housing price patterns and
 evaluate machine learning model performance.
+# Data Visualizations
+
+This folder contains visualizations related to the Housing Price Prediction project.
+
+## Visualization Objectives
+- Understand housing price distribution.
+- Analyse relationships between housing features.
+- Identify important features affecting house prices.
+- Present model performance through graphs.
+
+## Tools Used
+- Matplotlib
+- Seaborn
+- Python
+
+## Expected Visualizations
+- Housing Price Distribution
+- Feature Correlation Heatmap
+- Actual vs Predicted Prices
+- Model Performance Comparison
